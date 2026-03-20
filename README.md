@@ -28,7 +28,7 @@ Une colonne supplémentaire a été ajoutée :
 Les données proviennent de sources officielles :
 
 * **Base Adresse Nationale (BAN)** : [https://adresse.data.gouv.fr/data/ban/adresses/latest/csv-with-ids](https://adresse.data.gouv.fr/data/ban/adresses/latest/csv-with-ids)
-* **Cadastre (GéoJSON)** : [[https://adresse.data.gouv.fr/data/ban/adresses/latest/csv-with-ids](https://files.data.gouv.fr/cadastre/etalab-cadastre/2023-01-01/geojson/departements)
+* **Cadastre (GéoJSON)** : [https://files.data.gouv.fr/cadastre/etalab-cadastre/2023-01-01/geojson/departements](https://files.data.gouv.fr/cadastre/etalab-cadastre/2023-01-01/geojson/departements)
 
 Ces fichiers ont été traités et découpés pour créer cette version enrichie.
 
